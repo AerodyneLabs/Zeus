@@ -1,0 +1,13 @@
+# KiCad
+*bak
+*.bck
+*.000
+$*
+*_autosave*
+
+# Eclipse
+Release
+Debug
+
+# Vim
+*~
